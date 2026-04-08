@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "On Time Guttering",
+    "phone": "+15023451741",
+    "category": "gutter company",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville's Gutter Experts",
+      "heroSubline": "Protecting homes and businesses with reliable gutter solutions. On Time Guttering: Quality you can depend on.",
+      "aboutTitle": "Protecting Louisville Homes, One Gutter at a Time",
+      "aboutText": [
+        "On Time Guttering started with a simple mission: to provide Louisville with dependable and affordable gutter services. We're a local team, born and raised right here in Jefferson County, and we understand the unique challenges our climate and housing styles present.",
+        "We're not just about gutters; we're about protecting your investment. We believe in doing the job right the first time, using quality materials and proven techniques. Our team is committed to clear communication, honest pricing, and a dedication to exceeding your expectations.",
+        "Louisville is our home, and we're proud to contribute to its well-being. We actively support local charities and organizations, because giving back is just as important as providing exceptional gutter services."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast & Reliable Service",
+          "description": "We know your time is valuable. We arrive on schedule and complete projects efficiently without sacrificing quality."
+        },
+        {
+          "title": "Locally Owned & Operated",
+          "description": "We understand Louisville's unique needs and building styles. We're your neighbors, and we care about protecting our community."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable, long-lasting materials that withstand Louisville's weather extremes, from summer humidity to winter ice."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures proper installation for optimal performance and longevity, preventing costly water damage."
+        }
+      ],
+      "ctaHeadline": "Get a Free Gutter Estimate Today!",
+      "ctaSubline": "Protect your home from water damage. Contact On Time Guttering for a no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Expert gutter installation services for new construction and replacements.",
+        "description": "Properly installed gutters are crucial for diverting rainwater away from your foundation, preventing costly water damage to your Louisville home. On Time Guttering provides professional gutter installation services using high-quality materials designed to withstand Kentucky's diverse weather conditions. We assess your home's specific needs, considering roof pitch, landscaping, and drainage patterns, to recommend the optimal gutter system. We offer a variety of materials, including aluminum, steel, and copper, as well as different styles, such as seamless gutters, to complement your home's architecture. Our experienced installers ensure precise fitting and secure attachment, guaranteeing long-lasting performance and protection. We handle everything from initial consultation and material selection to complete installation and cleanup. Let us help you protect your investment with a reliable and efficient gutter system.",
+        "process": [
+          "Step 1: Consultation and Assessment - We evaluate your property and discuss your needs.",
+          "Step 2: Material Selection - Choose from a variety of gutter materials and styles.",
+          "Step 3: Precise Installation - Our experienced team installs your gutters with expert care.",
+          "Step 4: Final Inspection and Cleanup - We ensure everything is working perfectly and leave your property spotless."
+        ],
+        "benefits": [
+          "Protects your home's foundation from water damage",
+          "Prevents soil erosion and landscaping damage",
+          "Reduces the risk of basement flooding",
+          "Enhances your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of gutter material is best for Louisville's climate?",
+            "answer": "Aluminum is a popular choice due to its durability, affordability, and resistance to rust. Steel is another strong option, while copper offers a classic look and exceptional longevity."
+          },
+          {
+            "question": "How long does gutter installation typically take?",
+            "answer": "The duration depends on the size and complexity of your home. Most installations can be completed in one to two days."
+          },
+          {
+            "question": "Do you offer warranties on your gutter installations?",
+            "answer": "Yes, we provide warranties on both materials and workmanship, giving you peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair",
+        "shortDescription": "Fast and reliable gutter repair services to fix leaks, sags, and damage.",
+        "description": "Louisville's weather can be tough on gutters. From heavy rainstorms to ice and snow, your gutters can suffer damage over time. On Time Guttering offers comprehensive gutter repair services to address a wide range of issues, including leaks, sagging, clogs, and damaged sections. We'll thoroughly inspect your gutter system to identify the source of the problem and provide an effective and affordable solution. Whether it's patching a small leak, replacing a damaged downspout, or re-securing sagging gutters, our skilled technicians will restore your gutters to optimal performance. We use quality materials and proven repair techniques to ensure long-lasting results. Don't let minor gutter problems turn into major headaches. Contact On Time Guttering for prompt and reliable repair services.",
+        "process": [
+          "Step 1: Thorough Inspection - We identify all areas of damage and assess the extent of the problem.",
+          "Step 2: Targeted Repairs - We address specific issues with precision and care.",
+          "Step 3: Reinforcement and Stabilization - We ensure your gutters are securely attached and functioning properly.",
+          "Step 4: Final Check and Cleanup - We verify the repairs and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Prevents further water damage to your home",
+          "Extends the lifespan of your gutter system",
+          "Saves you money on costly replacements",
+          "Maintains your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Signs include leaks, sagging, overflowing, and visible damage. Regular inspections can help identify problems early."
+          },
+          {
+            "question": "Can you repair gutters that are pulling away from the house?",
+            "answer": "Yes, we can re-secure gutters to your home using appropriate fasteners and techniques."
+          },
+          {
+            "question": "What is the cost of gutter repair?",
+            "answer": "The cost depends on the extent of the damage and the materials needed. We provide free estimates."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Professional gutter cleaning services to remove leaves, debris, and clogs.",
+        "description": "Clogged gutters can lead to serious water damage to your Louisville home. Leaves, twigs, and other debris can accumulate in your gutters, preventing rainwater from flowing freely. This can cause water to back up, overflow, and seep into your roof, walls, and foundation. On Time Guttering offers thorough gutter cleaning services to remove all debris and ensure proper water flow. Our experienced technicians use safe and effective methods to clean your gutters, including removing debris by hand, flushing out downspouts, and inspecting for any damage. We also offer gutter protection systems to prevent future clogs. Protect your home from water damage with regular gutter cleaning from On Time Guttering.",
+        "process": [
+          "Step 1: Debris Removal - We carefully remove leaves, twigs, and other debris from your gutters.",
+          "Step 2: Downspout Flushing - We ensure your downspouts are clear and flowing freely.",
+          "Step 3: Inspection - We inspect your gutters for any signs of damage or wear.",
+          "Step 4: Debris Disposal - We properly dispose of all debris, leaving your property clean."
+        ],
+        "benefits": [
+          "Prevents water damage to your roof and foundation",
+          "Reduces the risk of pest infestations",
+          "Extends the lifespan of your gutters",
+          "Maintains your home's value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the spring and fall, to remove accumulated leaves and debris."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "While it's possible to clean your gutters yourself, it can be dangerous and time-consuming. Our professional service ensures a thorough and safe cleaning."
+          },
+          {
+            "question": "Do you offer gutter protection systems?",
+            "answer": "Yes, we offer a variety of gutter protection systems to prevent future clogs and reduce the need for frequent cleaning."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guards",
+        "name": "Gutter Guards",
+        "shortDescription": "Install gutter guards and eliminate the need for constant cleaning.",
+        "description": "Tired of constantly cleaning your gutters? On Time Guttering offers a variety of gutter guard solutions to keep leaves, debris, and pests out of your gutters, preventing clogs and water damage. We'll help you choose the best gutter guard system for your Louisville home based on your budget, roof type, and the amount of tree coverage around your property. Our experienced installers will ensure proper installation for optimal performance and long-lasting protection. Say goodbye to the hassle of gutter cleaning and hello to peace of mind with gutter guards from On Time Guttering. Louisville homes, particularly in older neighborhoods like the Highlands or Old Louisville with mature trees, benefit greatly from gutter guards.",
+        "process": [
+          "Step 1: Consultation and Assessment - We evaluate your property and recommend the best gutter guard system.",
+          "Step 2: Material Selection - Choose from a variety of gutter guard materials and styles.",
+          "Step 3: Professional Installation - Our experienced team installs your gutter guards with expert care.",
+          "Step 4: Final Inspection - We ensure your gutter guards are functioning perfectly."
+        ],
+        "benefits": [
+          "Eliminates the need for frequent gutter cleaning",
+          "Prevents clogs and water damage",
+          "Extends the lifespan of your gutters",
+          "Saves you time and money"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of installing gutter guards?",
+            "answer": "Gutter guards prevent debris from entering your gutters, reducing the need for cleaning and preventing water damage."
+          },
+          {
+            "question": "What types of gutter guards do you offer?",
+            "answer": "We offer a variety of gutter guard systems, including mesh screens, micro-mesh, and foam inserts."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of system and the size of your home. We provide free estimates."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-services",
+        "name": "Downspout Services",
+        "shortDescription": "Downspout repair, replacement, and extension to manage water runoff.",
+        "description": "Properly functioning downspouts are essential for directing water away from your foundation and preventing water damage. On Time Guttering offers a full range of downspout services, including repair, replacement, and extension. We can fix damaged downspouts, replace rusted or corroded downspouts, and extend downspouts to direct water further away from your home. We also offer decorative downspout options to enhance your home's curb appeal. Our experienced technicians will ensure your downspouts are properly installed and functioning efficiently. Louisville's frequent spring storms make proper downspout function critical.",
+        "process": [
+          "Step 1: Inspection - Evaluate downspout condition and identify issues.",
+          "Step 2: Repair or Replacement - Fix or replace damaged sections.",
+          "Step 3: Extension (if needed) - Extend downspouts to direct water away from foundation.",
+          "Step 4: Testing - Ensure proper water flow and drainage."
+        ],
+        "benefits": [
+          "Prevents foundation damage",
+          "Reduces soil erosion",
+          "Prevents basement flooding",
+          "Maintains landscaping"
+        ],
+        "faq": [
+          {
+            "question": "Why is it important to have properly functioning downspouts?",
+            "answer": "Properly functioning downspouts direct water away from your foundation, preventing water damage and soil erosion."
+          },
+          {
+            "question": "How far should my downspouts extend from my house?",
+            "answer": "Downspouts should extend at least 4-6 feet away from your foundation."
+          },
+          {
+            "question": "What are some signs that my downspouts need repair or replacement?",
+            "answer": "Signs include leaks, rust, corrosion, and detachment from the gutter system."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia",
+        "name": "Soffit & Fascia Repair",
+        "shortDescription": "Protect your roof and home with soffit and fascia repair services.",
+        "description": "Soffit and fascia play a critical role in protecting your roof and home from water damage and pests. Soffit provides ventilation to your attic, while fascia provides a finished look to your roofline and supports your gutters. Damaged or rotting soffit and fascia can lead to serious problems, including water damage, mold growth, and pest infestations. On Time Guttering offers professional soffit and fascia repair services to keep your home protected. We can repair or replace damaged sections, ensuring proper ventilation and a secure attachment for your gutters. We use high-quality materials that are resistant to rot, pests, and weather damage. Protect your investment with soffit and fascia repair from On Time Guttering.",
+        "process": [
+          "Step 1: Inspection - Assess the condition of your soffit and fascia.",
+          "Step 2: Repair or Replacement - Replace any damaged or rotting sections.",
+          "Step 3: Ventilation Check - Ensure proper attic ventilation.",
+          "Step 4: Sealing and Finishing - Seal and finish the repaired areas to protect against the elements."
+        ],
+        "benefits": [
+          "Protects your roof from water damage",
+          "Prevents mold growth",
+          "Keeps pests out of your attic",
+          "Enhances your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roofline."
+          },
+          {
+            "question": "Why is soffit and fascia important?",
+            "answer": "Soffit provides ventilation to your attic, preventing moisture buildup and mold growth. Fascia supports your gutters and protects your roof from water damage."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Signs include rotting wood, water stains, and pest infestations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "On Time Guttering is proud to serve the Louisville, Kentucky area. We understand the importance of properly functioning gutters in protecting your home from water damage, especially with Louisville's variable weather patterns. Our team of experienced professionals provides comprehensive gutter services, from installation and repair to cleaning and maintenance.\n\nWe are committed to providing Louisville residents with reliable and affordable gutter solutions. Whether you need a new gutter system installed, repairs to your existing gutters, or routine cleaning to prevent clogs, On Time Guttering is here to help. We use only the highest quality materials and workmanship to ensure your gutters are functioning optimally for years to come.",
+        "localContext": "Louisville, known for its vibrant culture and historic architecture, requires robust gutter systems to combat seasonal rainfall and protect its unique properties.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "On Time Guttering extends its expert gutter services to Jeffersontown, Kentucky. We recognize the specific needs of homeowners in Jeffersontown, from older homes in the historic district to newer developments. We offer a full range of gutter services to protect your home from water damage.\n\nOur team is dedicated to providing Jeffersontown residents with the best possible gutter solutions. We offer free estimates and will work with you to find the right gutter system for your home and budget. Trust On Time Guttering to keep your home safe and dry.",
+        "localContext": "Jeffersontown, a thriving suburban community near Louisville, benefits from reliable gutter systems to manage rainfall and protect homes of various ages and styles.",
+        "nearbyAreas": [
+          "Louisville",
+          "Hurstbourne",
+          "Middletown"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "On Time Guttering is your trusted gutter service provider in St. Matthews, Kentucky. We understand the unique architectural styles and needs of homes in St. Matthews, and we offer customized gutter solutions to match. Our services include gutter installation, repair, cleaning, and maintenance.\n\nWe are committed to providing St. Matthews residents with exceptional service and quality workmanship. We use only the best materials and our team is highly trained and experienced. Contact us today for a free estimate and let us help you protect your home from water damage.",
+        "localContext": "St. Matthews, a well-established Louisville suburb, relies on efficient gutter systems to protect its diverse housing stock from seasonal weather.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "On Time Guttering proudly serves the Shively, Kentucky community. We are dedicated to providing Shively homeowners with reliable and affordable gutter solutions. Our services include gutter installation, repair, cleaning, and maintenance, all performed by experienced professionals.\n\nWe understand the importance of protecting your home from water damage, and we are committed to providing Shively residents with the best possible service. We offer free estimates and will work with you to find the right gutter system for your home and budget. Trust On Time Guttering to keep your home safe and dry.",
+        "localContext": "Shively, a city with a strong industrial history near Louisville, requires dependable gutter solutions to safeguard residential and commercial properties.",
+        "nearbyAreas": [
+          "Louisville",
+          "Valley Station",
+          "Pleasure Ridge Park"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "On Time Guttering offers comprehensive gutter services to the residents of Lyndon, Kentucky. We understand the importance of properly functioning gutters in protecting your home from water damage, especially with Lyndon's lush landscapes and seasonal rainfall. We provide a full range of services, from new installations to repairs and regular cleaning.\n\nOur team is committed to delivering top-notch service and quality workmanship to Lyndon homeowners. We use only the highest quality materials and ensure that every job is done right the first time. Contact On Time Guttering for all your gutter needs in Lyndon.",
+        "localContext": "Lyndon, a residential community known for its parks and family-friendly environment, benefits from well-maintained gutter systems to protect homes from water damage.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Middletown",
+          "Hurstbourne"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "On Time Guttering is pleased to provide expert gutter services to Middletown, Kentucky. We recognize the diverse architectural styles in Middletown and offer customized gutter solutions to fit your specific needs. Our services include installation, repair, cleaning, and maintenance.\n\nWe are committed to providing Middletown residents with reliable and affordable gutter solutions. We take pride in our workmanship and use only the best materials. Contact us today for a free estimate and let us help you protect your home from water damage.",
+        "localContext": "Middletown, a growing Louisville suburb with a mix of historic and modern homes, benefits from reliable gutter systems to manage rainfall and protect its properties.",
+        "nearbyAreas": [
+          "Lyndon",
+          "Jeffersontown",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "On Time Guttering is proud to serve the Anchorage, Kentucky area with our expert gutter services. We understand that Anchorage homes require top-quality gutter systems to protect them from water damage. We offer a full range of services, including new installations, repairs, and cleaning.\n\nOur team is dedicated to providing Anchorage residents with the best possible service. We use only the highest quality materials and workmanship to ensure your gutters are functioning optimally for years to come. Contact us today for a free estimate.",
+        "localContext": "Anchorage, an affluent residential area known for its large properties and mature trees, requires robust gutter systems to manage heavy rainfall and protect its homes.",
+        "nearbyAreas": [
+          "Middletown",
+          "Lyndon",
+          "Pewee Valley"
+        ]
+      },
+      {
+        "city": "Hurstbourne",
+        "slug": "hurstbourne-ky",
+        "state": "KY",
+        "content": "On Time Guttering provides expert gutter services in Hurstbourne, Kentucky. We understand the importance of well-maintained gutters in protecting your home from water damage. We offer a variety of gutter services, including installation, repair, cleaning, and maintenance.\n\nOur team is committed to providing Hurstbourne residents with exceptional service and quality workmanship. We use only the best materials and our team is highly trained and experienced. Contact us today for a free estimate and let us help you protect your home.",
+        "localContext": "Hurstbourne, a suburban community with many established homes and businesses, requires reliable gutter solutions to manage seasonal rainfall and protect its properties.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "Lyndon",
+          "St. Matthews"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice K.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "On Time Guttering did a fantastic job installing new seamless gutters on my house in St. Matthews. The crew was professional, efficient, and the gutters look great! Highly recommend.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "I hired On Time Guttering to clean my gutters after a particularly heavy leaf fall. They were prompt, thorough, and left my property clean. Will definitely use them again.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Gutter Repair",
+        "text": "My gutters were sagging and leaking after a recent storm. On Time Guttering came out quickly and fixed the problem at a reasonable price. Very satisfied with their service.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Gutter Guards",
+        "text": "Decided to install gutter guards to avoid constant cleaning. On Time Guttering helped me choose the right product and the installation was seamless. So far, so good!",
+        "date": "2025-06-10"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Downspout Extension",
+        "text": "We had issues with water pooling near our foundation. On Time Guttering extended our downspouts, which seems to have solved the problem. Appreciate their expertise.",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Soffit & Fascia Repair",
+        "text": "On Time Guttering replaced some damaged soffit and fascia on our home. They were very professional and did an excellent job matching the existing materials. Highly recommend their work.",
+        "date": "2025-08-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "On Time Guttering | Louisville, KY",
+        "description": "Louisville's trusted gutter company. Installation, repair, & cleaning. Free estimates! Protect your home from water damage."
+      },
+      "about": {
+        "title": "About On Time Guttering - Louisville, KY",
+        "description": "Learn about On Time Guttering, your local Louisville gutter experts. Quality service and reliable solutions for your home."
+      },
+      "services": {
+        "title": "Gutter Services | Louisville, KY",
+        "description": "Comprehensive gutter services in Louisville: installation, repair, cleaning, & more. Protect your home with On Time Guttering."
+      },
+      "contact": {
+        "title": "Contact On Time Guttering | Louisville, KY",
+        "description": "Contact On Time Guttering for a free estimate or to schedule service. We're here to help with all your gutter needs."
+      },
+      "reviews": {
+        "title": "On Time Guttering Reviews | Louisville, KY",
+        "description": "Read reviews from satisfied On Time Guttering customers in Louisville. See why we're the trusted choice for gutter services."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "On Time Guttering service areas"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-installation": "/images/service-gutter-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "gutter-guards": "/images/service-gutter-guards.webp",
+      "downspout-services": "/images/service-downspout-services.webp",
+      "soffit-fascia": "/images/service-soffit-fascia.webp"
+    },
+    "servicesResponsive": {
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guards": {
+        "src": "/images/service-gutter-guards.webp",
+        "srcset": "/images/service-gutter-guards-400w.webp 400w, /images/service-gutter-guards-800w.webp 800w, /images/service-gutter-guards-1200w.webp 1200w, /images/service-gutter-guards.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-services": {
+        "src": "/images/service-downspout-services.webp",
+        "srcset": "/images/service-downspout-services-400w.webp 400w, /images/service-downspout-services-800w.webp 800w, /images/service-downspout-services-1200w.webp 1200w, /images/service-downspout-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia": {
+        "src": "/images/service-soffit-fascia.webp",
+        "srcset": "/images/service-soffit-fascia-400w.webp 400w, /images/service-soffit-fascia-800w.webp 800w, /images/service-soffit-fascia-1200w.webp 1200w, /images/service-soffit-fascia.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
